@@ -1,4 +1,5 @@
-import ExpenseTracker.BudgetService;
+package ExpenseTracker;
+
 import ExpenseTracker.dtos.BudgetLimitDTO;
 import ExpenseTracker.dtos.ExpenseCategory;
 import ExpenseTracker.dtos.ExpenseDTO;
